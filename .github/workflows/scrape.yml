@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         python3 -m pip install pandas lxml
-        python3 -c 'import sys, pandas as pd; pd.read_html("https://theodorepayne.org/plants-and-seeds/nursery/inventory/", header=0)[0].to_csv(sys.stdoutindex=False)' > data.csv
+        python3 -c 'import sys, pandas as pd; pd.read_html("https://theodorepayne.org/plants-and-seeds/nursery/inventory/", header=0)[0].to_csv("data.csv", index=False)'
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
