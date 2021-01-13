@@ -13,9 +13,11 @@ jobs:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
+      env: # Or as an environment variable
+        CONTACT_INFO: ${{ secrets.ContactInfo }}
       run: |-
         python3 -m pip install pandas lxml requests
-        python3 -c 'import sys, pandas as pd, requests; html = requests.get("https://theodorepayne.org/plants-and-seeds/nursery/inventory/", headers={'User-agent': 'webrobot@cordaz.com'}).text; pd.read_html(html, header=)[0].to_csv("data.csv", index=False)'
+        python3 download.py
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
