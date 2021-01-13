@@ -14,8 +14,8 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        python3 -m pip install pandas lxml
-        python3 -c 'import sys, pandas as pd; pd.read_html("https://theodorepayne.org/plants-and-seeds/nursery/inventory/", header=0)[0].to_csv("data.csv", index=False)'
+        python3 -m pip install pandas lxml requests
+        python3 -c 'import sys, pandas as pd, requests; html = requests.get("https://theodorepayne.org/plants-and-seeds/nursery/inventory/", headers={'User-agent': 'webrobot@cordaz.com'}).text; pd.read_html(html, header=)[0].to_csv("data.csv", index=False)'
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
