@@ -1,16 +1,14 @@
 Botanic Name and Size,Common Name
+Abutilon palmeri 5G,Palmer’s Indian Mallow
 Acer negundo (A. negundo var. californicum) 1G,California Box Elder
 Acer negundo (A. negundo var. californicum) 5G,California Box Elder
-Achillea millefolium 1G,Yarrow
-Achillea millefolium 4”,Yarrow
-Achillea millefolium ‘Sonoma Coast’ 1G,Sonoma Coast Yarrow
 Adenostoma fasciculatum ‘Nicolas’ 1G,Nicolas Chamise
-Adenostoma fasciculatum ‘Santa Cruz Island’ 1G,Santa Cruz Island Chamise
 Adenostoma fasciculatum var. fasciculatum 1G,Chamise
 Adenostoma fasciculatum var. fasciculatum 5G,Chamise
 Adiantum capillus-veneris ‘Banksianum’ 1G,Banksianum Maidenhair Fern
 Aesculus californica ‘Blushing Dawn’ 5G,Blushing Dawn Buckeye
 Agave deserti 1G,Desert Agave
+Agave shawii var. shawii 1G,Shaw’s Agave
 Agave shawii var. shawii 5G,Shaw’s Agave
 Alnus rhombifolia 1G,White Alder
 Anemopsis californica 1G,Yerba Mansa
@@ -18,35 +16,36 @@ Aquilegia formosa 1G,Western Columbine
 Arctostaphylos bakeri ‘Louis Edmunds’ 1G,Louis Edmunds Arctostaphylos
 Arctostaphylos densiflora ‘Harmony’ 1G,Harmony Vine Hill Manzanita
 Arctostaphylos densiflora ‘Sentinel’ 1G,Sentinel Vine Hill Manzanita
+Arctostaphylos edmundsii ‘Big Sur’ 1G,Big Sur Little Sur Manzanita
 Arctostaphylos edmundsii ‘Carmel Sur’ 1G,Carmel Sur Little Sur Manzanita
 Arctostaphylos edmundsii ‘Greensphere’ 1G,Greensphere Little Sur Manzanita
 Arctostaphylos edmundsii ‘Rosy Dawn’ 1G,Rosy Dawn Little Sur Manzanita
+Arctostaphylos ‘Emerald Carpet’ 1G,Emerald Carpet Manzanita
 Arctostaphylos hookeri ‘Ken Taylor’ 1G,Ken Taylor Manzanita
 Arctostaphylos hookeri ‘Monterey Carpet’ 1G,Monterey Carpet Hooker’s Manzanita
+Arctostaphylos ‘Howard McMinn’ 1G,Howard McMinn Manzanita
 Arctostaphylos ‘Ian Bush’ 1G,Ian Bush Manzanita
 Arctostaphylos insularis ‘Canyon Sparkles’ 1G,Canyon Sparkles Santa Cruz Island Manzanita
 Arctostaphylos insularis ‘Ward’ 1G,Ward Santa Cruz Island Manzanita
-Arctostaphylos ‘Mama Bear’ 1G,Mama Bear Manzanita
 Arctostaphylos manzanita ‘Byrd Hill’ 1G,Byrd Hill Manzanita
 Arctostaphylos manzanita ‘Dr. Hurd’ 15G,Dr. Hurd Common Manzanita
-Arctostaphylos manzanita ‘Dr. Hurd’ 3G,Dr. Hurd Common Manzanita
 Arctostaphylos manzanita ‘Mary’s Blush’ 1G,Mary’s Blush Common Manzanita
 Arctostaphylos morroensis ‘Hazard Canyon’ 1G,Hazard Canyon Morro Manzanita
 Arctostaphylos ohloneana 1G,Ohlone Manzanita
+Arctostaphylos ‘Pacific Mist’ 1G,Pacific Mist Arctostaphylos
+Arctostaphylos ‘Pacific Mist’ 5G,Pacific Mist Manzanita
 Arctostaphylos peninsularis 1G,Peninsular Manzanita
 Arctostaphylos pungens 1G,Mexican Manzanita
 Arctostaphylos purissima ‘Vandenberg’ 1G,Vandenberg La Purissima Manzanita
-Arctostaphylos refugioensis 1G,Refugio Manzanita
 Arctostaphylos rudis ‘Vandenberg’ 1G,Vanderberg Sand Mesa Manzanita
 Arctostaphylos rudis ‘Vandenberg’ 4”,Vandenberg Sand Mesa Manzanita
 Arctostaphylos silvicola ‘Ghostly’ 1G,Ghostly Manzanita
 Arctostaphylos ‘Sunset’ 1G,Sunset Manzanita
-Arctostaphylos ‘Sunset’ 5G,Sunset Manzanita
 Arctostaphylos tomentosa 1G,Woolly-Leaf Manzanita
 Arctostaphylos ‘TPF Blue’ – TPF Blue Manzanita (Plant) 1G,TPF Blue Manzanita – (Plant)
 Arctostaphylos uva-ursi ‘Green Supreme’ 1G,Green Supreme Bearberry Manzanita
-Arctostaphylos uva-ursi x imbricata 1G,"Bearberry, Kinnikinnick – (Plant)"
-Arctostaphylos ‘White Lanterns’ 1G,White Lanterns Manzanita
+Arctostaphylos uva-ursi ‘Point Reyes’ 1G,Point Reyes Bearberry Manzanita
+Arctostaphylos uva-ursi ‘Radiant’ 1G,Radiant Bearberry Manzanita
 Aristolochia californica 3G,Dutchman’s Pipe
 Armeria maritima ssp. californica 4”,"California Sea Pink, Thrift"
 Artemisia californica 1G,California Sagebrush
@@ -54,67 +53,83 @@ Artemisia californica ‘Canyon Grey’ 1G,Canyon Grey California Sagebrush
 Artemisia californica ‘Canyon Grey’ 4”,Canyon Grey California Sagebrush
 Artemisia douglasiana 1G,Mugwort
 Artemisia douglasiana 4”,Mugwort
+Artemisia pycnocephala ‘David’s Choice’ 1G,David’s Choice Beach Sagebrush
 Artemisia tridentata ssp. tridentata 1G,Great Basin Sagebrush
 Atriplex canescens 1G,Four-Winged Saltbush or Shad-Scale
 Atriplex lentiformis 1G,"Quail Bush, Big Saltbush"
+Atriplex polycarpa 1G,"Cattle Spinach, Alkali Saltbush"
 Baccharis ‘Centennial’ 1G,Centennial Desert Broom
 Baccharis pilularis ‘San Bruno Lady’ 1G,San Bruno Lady Dwarf Coyote Brush
+Baccharis pilularis ssp. consanguinea 1G,"Coyote Brush, Chaparral Broom"
+Baccharis pilularis ssp. pilularis ‘Pigeon Point’ 1G,Pigeon Point Coyote Brush
+Baccharis salicifolia – Mulefat (Plant) 1G,Mulefat – (Plant)
 Baccharis salicina – Emory’s Baccharis (Plant) 1G,Emory’s Baccharis – (Plant)
 Baccharis sarothroides 1G,"Broom Baccharis, Desert Broom"
 Berberis (Mahonia) aquifolium var. aquifolium 1G,Oregon Grape
+Berberis aquifolium var. repens 1G,Creeping Oregon Grape
 Bergerocactus emoryi 1G,"Cunyado, Goldenspined Cereus"
 Bothriochloa barbinodis 1G,Cane Bluestem
 Bothriochloa barbinodis 4”,Cane Bluestem
 Bouteloua gracilis 1G,Blue Gramma
 Calamagrostis nutkaensis 1G,Pacific Reed Grass
-Calycanthus occidentalis 1G,Spice Bush
-Calystegia macrostegia ‘Anacapa Pink’ 1G,Anacapa Pink Island Morning Glory
+Calliandra californica 1G,"Red Fairyduster, Zapotillo"
 Carex gracilior 1G,Slender sedge – (Plant)
 Carex pansa 1G,Sand Dune Sedge
-Carex praegracilis 1G,"Field Sedge, Slender Sedge"
-Carex spectabilis 1G,Showy Sedge
+Carex praegracilis ‘Chisai’ 1G,Chisai Field Sedge – (Plant)
 Carex spissa 1G,San Diego Sedge
+Carpenteria californica 1G,"Bush Anemone, Tree Anemone"
+Carpenteria californica ‘Elizabeth’ 2G,Elizabeth Bush Anemone
+Carpenteria californica ‘Elizabeth’ 5G,Elizabeth Bush Anemone
 Ceanothus arboreus 1G,"Catalina Ceanothus, Felt-Leaf Ceanothus"
 Ceanothus ‘Berkeley Skies’ 1G,Berkeley Skies CA Lilac
 Ceanothus ‘Blue Jeans’ 1G,Blue Jeans Ceanothus
+Ceanothus ‘Centennial’ 1G,Centennial Ceanothus
+Ceanothus ‘Centennial’ 5G,Centennial Ceanothus
+Ceanothus ‘Concha’ 5G,Concha Ceanothus
 Ceanothus ‘Dark Star’ 1G,Dark Star California Lilac
+Ceanothus ‘Dark Star’ 2G,Dark Star California Lilac
+Ceanothus ‘Frosty Blue’ 1G,Frosty Blue California Lilac
 Ceanothus gloriosus ‘Anchor Bay’ 1G,Anchor Bay Ceanothus
-Ceanothus gloriosus ‘Anchor Bay’ 3G,Anchor Bay Ceanothus
-Ceanothus ‘Joyce Coulter’ 1G,Joyce Coulter Ceanothus
+Ceanothus hearstiorum 1G,Hearst’s Ceanothus
 Ceanothus ‘Joyce Coulter’ 5G,Joyce Coulter California Lilac
-Ceanothus leucodermis 1G,Chaparral Whitethorn
-Ceanothus maritimus ‘Point Sierra’ 1G,Point Sierra Maritime Ceanothus
+Ceanothus ‘Julia Phelps’ 1G,Julia Phelps California Lilac
 Ceanothus maritimus ‘Valley Violet’ 1G,Valley Violet Maritime Ceanothus
 Ceanothus megacarpus var. megacarpus 1G Local-Santa Monica Mtns,Big-Pod Ceanothus
 Ceanothus ‘Ray Hartman’ 1G,Ray Hartman Ceanothus
 Ceanothus ‘Siempre Blue’ 1G,Siempre Blue Ceanothus
 Ceanothus ‘Skylark’ 1G,Skylark Ceanothus
+Ceanothus ‘Skylark’ 2G,Skylark ceanothus
 Ceanothus spinosus 1G,Greenbark Ceanothus
 Ceanothus ‘Tassajara Blue’ 1G,Tassajara Blue Ceanothus
-Ceanothus thyrsiflorus ‘Snow Flurry’ 1G,Snow Flurry Blueblossom
 Ceanothus thyrsiflorus ‘Snow Flurry’ 5G,Snow Flurry Blueblossom
+Ceanothus thyrsiflorus var. griseus ‘Yankee Point’ 1G,Yankee Point Carmel Ceanothus
 Ceanothus thyrsiflorus var. griseus ‘Yankee Point’ 3G,Yankee Point Carmel Ceanothus
+Ceanothus thyrsiflorus var. griseus ‘Yankee Point’ 4”,Yankee Point Carmel Ceanothus
 Ceanothus thyrsiflorus var. griseus ‘Yankee Point’ 5G,Yankee Point Carmel Ceanothus
 Cercis occidentalis 15G,Western Redbud
 Cercis occidentalis 1G,Western Redbud
 Cercis occidentalis 24” Box,Western Redbud
 Cercis occidentalis 5G,Western Redbud
 Cercocarpus betuloides var. betuloides 1G,Birch Leaf Mountain Mahogany
-Chilopsis linearis ssp. arcuata 1G,Desert Willow
+Cercocarpus betuloides var. betuloides 5G,Birch Leaf Mountain Mahogany
 Chilopsis linearis ssp. arcuata ‘Burgundy’ 15G,Burgundy Desert Willow
+Chilopsis linearis ssp. arcuata ‘Burgundy’ 24” Box,Burgundy Desert Willow
 Clematis pauciflora 1G,Ropevine
 Clinopodium (Satureja) douglasii 4”,Yerba Buena
 Comarostaphylis diversifolia ssp. diversifolia 15G,Summer Holly
-Comarostaphylis diversifolia ssp. diversifolia 1G,Summer Holly
 Comarostaphylis diversifolia ssp. diversifolia 5G,Summer Holly
 Constancea (Eriophyllum) nevinii 1G,"Catalina Silverlace, Nevin’s Woolly Sunflower"
+Corethrogyne (Lessingia) filaginifolia ‘Silver Carpet’ 1G,Silver Carpet Common Sandaster
+Corethrogyne filaginifolia 1G,"Common Sandaster, California Aster"
 Cornus sericea ‘Hedgerows Gold’ 15G,Hedgerows Gold Dogwood – (Plant)
 Cylindropuntia (Opuntia) prolifera 1G,Coastal Cholla
-Dendromecon harfordii 1G,Channel Island Bush Poppy
 Dichelostemma capitatum 4”,"Blue Dicks, Wild Hyacinth – (Plant)"
-Diplacus ‘Eleanor’ 4”,Eleanor Monkeyflower
-Diplacus ‘Jelly Bean Gold’ 4”,Jelly Bean Gold Monkeyflower
-Diplacus ‘Jelly Bean Red’ 1G,Jelly Bean Red Monkeyflower
+Diplacus ‘Fiesta Marigold’ 4”,Fiesta Marigold Monkeyflower
+Diplacus ‘Jelly Bean Gold’ 1G,Jelly Bean Gold Monkeyflower
+Diplacus ‘Jelly Bean Lemon’ 1G,Jelly Bean Lemon Monkeyflower
+Diplacus ‘Jelly Bean Orange’ 1G,Jelly Bean Orange Monkeyflower
+Diplacus ‘Jelly Bean Purple Pink’ 1G,Jelly Bean Purple/Pink Monkeyflower
+Diplacus ‘Jelly Bean Terracotta’ 1G,Jelly Bean Terracotta Monkeyflower
 Diplacus longiflorus 1G,"Bush Monkeyflower, Sticky Monkeyflowert"
 Diplacus longiflorus 4”,"Bush Monkeyflower, Sticky Monkeyflowert"
 Diplacus ‘Trish’ 1G,Trish Monkeyflower
@@ -122,38 +137,43 @@ Dudleya anomala 1G,Baja Island Dudleya
 Dudleya attenuata ssp. attenuata 1G,Orcutt’s Dudleya
 Dudleya brittonii (green form) 1G,Britton’s Dudleya (green form)
 Dudleya brittonii 1G,Britton’s Dudleya
-Dudleya brittonii 3G,Britton’s Dudleya
 Dudleya edulis 1G,"Fingertips, San Diego Dudleya"
-Dudleya lanceolata 4” Local-Santa Monica Mtns,Lance-leaved Dudleya
-Eleocharis montevidensis 1G,Sand Spike Rush
+Dudleya edulis 4”,"Fingertips, San Diego Dudleya"
 Elymus (Leymus) condensatus 1G,Giant Wild Rye
 Elymus (Leymus) condensatus 1G Local-Santa Monica Mtns,Giant Wild Rye
 Elymus (Leymus) condensatus ‘Canyon Prince’ 1G,Canyon Prince Giant Wild Rye
 Encelia californica 1G,"Coast Sunflower, California Bush Sunflower"
+Encelia californica 4”,"Coast Sunflower, California Bush Sunflower"
+Encelia farinosa 5G,"Brittlebush, Incienso"
 Epilobium (Zauschneria) ‘Carman’s Grey’ 1G,Carman’s Grey California Fuchsia
 Epilobium (Zauschneria) ‘Liz Parsons Hybrid’ 1G,Liz Parsons California Fuchsia
+Epilobium canum 1G,"California Fuchsia, Hummingbird Trumpet"
 Epilobium canum ssp. canum 1G,California or Hoary Fuchsia
 Epilobium canum ssp. canum 4”,California or Hoary Fuchsia
 Epilobium ‘Catalina’ 1G,Catalina California Fuchsia
+Ericameria ericoides 1G,Mock Heather
 Erigeron glaucus 1G,Seaside Daisy
+Erigeron glaucus ‘Cape Sebastian’ 1G,Cape Sebastian Seaside Daisy
+Erigeron glaucus ‘Sea Breeze’ 1G,Sea Breeze Seaside Daisy
+Erigeron ‘W. R.’ 1G,W.R. Seaside Daisy
+Eriogonum fasciculatum ‘Bruce Dickinson’ 1G,Bruce Dickinson California Buckwheat
 Eriogonum fasciculatum ‘Theodore Payne’ 1G,Theodore Payne California Buckwheat
-Eriogonum fasciculatum var. foliolosum 1G,California Buckwheat
-Eriogonum fasciculatum var. polifolium 1G,Eastern Mojave Buckwheat
-Eriogonum giganteum var. giganteum 1G,Saint Catherine’s Lace
-Eriogonum grande var. rubescens 1G,San Miguel Island or Red Buckwheat
 Eriogonum parvifolium 1G,Sea Cliff Buckwheat
 Eriogonum umbellatum ‘Shasta Sulfur’ 1G,Shasta Sulfur Buckwheat
+Eriophyllum confertiflorum var. confertiflorum 1G,Golden Yarrow
 Eriophyllum confertiflorum var. confertiflorum 4”,Golden Yarrow
-Erythranthe (Mimulus) cardinalis 1G,Scarlet Monkeyflower
+Eriophyllum lanatum ‘Siskiyou’ 1G,Siskiyou Woolly Sunflower
+Erysimum capitatum var. capitatum 1G,Sand Dune Wallflower
 Erythranthe (Mimulus) guttata 1G,"Seep Monkeyflower, Yellow Monkeyflower"
 Euphorbia xanti 1G,Baja Spurge
+Fallugia paradoxa 1G,Apache Plume
 Festuca californica 4”,California Fescue
 Festuca idahoensis ‘Clearwater Blue’ 1G,Clearwater Blue Idaho Fescue
 Festuca idahoensis ‘Clearwater Blue’ 4”,Clearwater Blue Idaho Fescue
-Festuca rubra ‘Patrick’s Point’ 1G,Patrick’s Point Creeping Red Fescue
+Fragaria chiloensis 4”,Beach Strawberry
+Fragaria vesca ‘Montana de Oro’ 1G,Montana de Oro Wood Strawberry
 Fragaria vesca ‘Montana de Oro’ 4”,Montana de Oro Wood Strawberry
 Frangula (Rhamnus) californica ‘Eve Case’ 1G,Eve Case California Coffeeberry
-Frangula (Rhamnus) californica ‘Eve Case’ 5G,Eve Case California Coffeeberry
 Frangula (Rhamnus) californica ‘Mound San Bruno’ 1G,Mound San Bruno California Coffeeberry
 Frangula (Rhamnus) californica ‘Mound San Bruno’ 5G,Mound San Bruno California Coffeeberry
 Frangula californica ‘Leatherleaf’ 1G,Leatherleaf California Coffeeberry
@@ -165,30 +185,32 @@ Gambelia (Galvezia) speciosa ‘Firecracker’ 1G,Firecracker Showy Island Snapd
 Gambelia juncea ‘Gran Canon’ 1G,Gran Canon Baja Bush Snapdragon
 Garrya elliptica 1G,Silk Tassel Bush
 Garrya elliptica ‘Evie’ 1G,Evie Silk Tassel Bush
+Garrya elliptica ‘Evie’ 2G,Evie Silk Tassel Bush
 Grindelia camporum 1G,"Common Gumplant, Great Valley Gumweed"
 Grindelia stricta ssp. venulosa 1G,Gum Plant – (Plant)
 Grindelia stricta var. platyphylla 1G,Pacific Gumplant
 Hazardia squarrosa 1G,Sawtooth Goldenbush
 Hesperocyparis (Cupressus) macrocarpa 1G,Monterey Cypress
-Hesperocyparis nevadensis – Piute Cypress (Plant) 1G,Piute Cypress – (Plant)
+Hesperocyparis forbesii 15G,Tecate Cypress
+Hesperocyparis forbesii 1G,Tecate Cypress
+Hesperocyparis forbesii 5G,Tecate Cypress
 Hesperoyucca whipplei 1G,Chaparral Yucca
-Hesperoyucca whipplei 3G,"Chaparral Yucca, Our Lord’s Candle"
 Hesperoyucca whipplei 4”,"Chaparral Yucca, Our Lord’s Candle"
 Hesperoyucca whipplei 5G,"Chaparral Yucca, Our Lord’s Candle"
 Heteromeles arbutifolia 15G,"Toyon, Christmas Berry"
-Heteromeles arbutifolia 1G,"Toyon, Christmas Berry"
 Heteromeles arbutifolia 24” Box,"Toyon, Christmas Berry"
-Heteromeles arbutifolia 5G,"Toyon, Christmas Berry"
 Heteromeles arbutifolia ‘Davis Gold’ 1G,Davis Gold Toyon
+Heteromeles arbutifolia ‘Davis Gold’ 5G,Davis Gold Toyon
 Heterotheca sessiliflora ssp. bolanderi ‘San Bruno Mountain’ 1G,San Bruno Mountain Sessileflower Goldenaster
-Heuchera maxima 1G,Island Alumroot
 Heuchera maxima 4”,Island Alum Root
-Iris ‘Canyon Snow’ 1G,Canyon Snow Iris
+Heuchera ‘Rosada’ 1G,Rosada Alumroot
+Heuchera ‘Wendy’ 1G,Wendy Alumroot
+Iris douglasiana 1G,Douglas Iris
 Iris ‘Pacific Coast Hybrid’ 1G,Pacific Coast Hybrid Iris
 Iris ‘Pacific Coast Hybrid’ 4”,Pacific Coast Hybrid Iris
 Isocoma menziesii 1G,Menzies’ Goldenbush
 Isocoma menziesii 4”,Menzies’ Goldenbush
-Juncus acutus ssp. leopoldii,Southwestern Spiny Rush
+Juncus acutus ssp. leopoldii 1G,Southwestern Spiny Rush
 Juncus effusus 1G,Common Rush
 Juncus patens ‘Elk Blue’ 1G,Elk Blue Common Rush
 Juncus patens ‘Occidental Blue’ 1G,Occidental Blue Spreading Rush
@@ -196,23 +218,24 @@ Juncus patens ‘Will Fleming’ 1G,Will Fleming Common Rush
 Juncus phaeocephalus 1G,Brown Headed Rush
 Juncus phaeocephalus 4”,Brown Headed Rush
 Juncus xiphioides 1G,Iris Leaved Rush
+Lepechinia fragrans 1G,Fragrant Pitcher Sage
 Leptosyne gigantea 1G,Giant Coreopsis
-Lewisia mixed 1G,Mixed Cliff Maids
-Lewisia mixed 4”,Mixed Cliff Maids
+Lewisia ‘Little Peach’ 4”,Little Peach Cliff Maids
+Limonium californicum 1G,California Sea Lavender
 Lonicera hispidula 1G,Pink Honeysuckle
 Lyonothamnus floribundus ssp. aspleniifolius 15G,Santa Cruz Island Ironwood
 Lyonothamnus floribundus ssp. aspleniifolius 5G,Santa Cruz Island Ironwood
 Malacothamnus densiflorus 1G,Yellowstem Bushmallow
 Malacothamnus fasciculatus ‘Casitas’ 1G,Casitas Chaparral Mallow
 Malacothamnus fasciculatus var. fasciculatus 1G,Chaparral Mallow
-Malacothamnus jonesii 1G,Jones’ Bush Mallow
+Malosma laurina 5G,Laurel Sumac
 Malva assurgentiflora ssp. glabra 1G,Malva Rose – (Plant)
-Malva ‘Purisima’ 1G,Purisima Island Mallow
 Malva ‘Purisima’ 5G,Purisima Island Mallow
+Mammillaria dioica 1G,Strawberry or Fish Hook Cactus
 Melica torreyana 4”,Torrey’s Melic
 Monardella odoratissima 1G,"Mountain Pennyroyal, Desert Mint, Mountain Monardella"
-Monardella villosa ssp. villosa 1G,Coyote Mint
 Monardella villosa ssp. villosa ‘Russian River’ 1G,Russian River Coyote Mint
+Monardella villosa ssp. villosa ‘Russian River’ 4”,Russian River Coyote Mint
 Monardella viminea 4”,Willowy Monardella
 Muhlenbergia rigens 1G,Deergrass
 Munzothamnus (Stephanomeria) blairii 1G,"San Clemente Island Chicory, Blair’s Wirelettuce"
@@ -220,87 +243,94 @@ Opuntia littoralis 1G,"Western Prickly Pear, Coast Prickly Pear"
 Parkinsonia florida ‘Desert Museum’ 15G,Desert Museum Palo Verde – (Plant)
 Penstemon davidsonii var. davidsonii 1G,"Timberline Penstemon, Davidson’s Penstemon"
 Penstemon heterophyllus ‘Blue Gem’ 1G,Blue Gem Foothill Penstemon
-Penstemon heterophyllus ‘Margarita BOP’ 1G,Margarita BOP Foothill Penstemon
+Penstemon heterophyllus ‘Blue Springs’ 4”,Blue Springs Foothillo Penstemon
+Penstemon heterophyllus ‘Electric Blue’ 1G,Electric Blue Foothill Penstemon
+Penstemon heterophyllus ‘Margarita BOP’ 4”,Margarita BOP Foothill Penstemon
+Penstemon heterophyllus var. australis 1G,Southern Foothill Penstemon
+Penstemon heterophyllus var. australis 4”,Southern Foothill Penstemon
 Penstemon spectabilis 1G,"Showy Penstemon, Royal Penstemon"
 Penstemon spectabilis 4”,"Showy Penstemon, Royal Penstemon"
 Pinus coulteri 1G,Coulter Pine
 Pinus radiata 15G,Monterey Pine
+Pinus sabiniana 15G,"Gray Pine, Foothill Pine, Ghost Pine"
 Platanus racemosa 15G,Western Sycamore
 Platanus racemosa 1G,Western Sycamore
 Platanus racemosa 24” Box,Western Sycamore
 Platanus racemosa 5G,Western Sycamore
-Polystichum munitum 1G,Western Sword Fern
-Polystichum munitum 5G,Western Sword Fern
 Populus fremontii ssp. fremontii 1G,Fremont Cottonwood or Gila Cottonwood or Alamo
-Prosopis glandulosa var. torreyana 15G,Honey Mesquite
 Prunus ilicifolia ssp. ilicifolia 1G,Holly Leaf Cherry
+Prunus ilicifolia ssp. ilicifolia 4″,Holly Leaf Cherry
 Prunus ilicifolia ssp. lyonii 1G,Catalina Cherry
 Prunus ilicifolia ssp. lyonii 24” Box,Catalina Cherry
 Prunus ilicifolia ssp. lyonii 5G,Catalina Cherry
 Quercus agrifolia var. agrifolia 1G,Coast Live Oak
-Quercus agrifolia var. agrifolia 5G,Coast Live Oak
 Quercus berberidifolia 1G,California Scrub Oak
-Quercus chrysolepis 5G,Canyon Live Oak
 Quercus cornelius-mulleri 5G,Muller Oak – (Plant)
-Quercus engelmannii 5G,Engelmann Oak
 Quercus kelloggii 1G,Black Oak
-Quercus wislizeni var. wislizeni 1G,Interior Live Oak
-Rhus aromatica 1G,"Fragrant Sumac, Basket Bush"
-Rhus integrifolia 1G,Lemonade Berry
+Ranunculus californicus var. californicus 1G,California Buttercup
 Rhus ovata 1G,Sugar Bush
 Ribes aureum var. gracillimum 1G,Golden Currant
-Ribes cereum 1G,Wax Currant
 Ribes speciosum 1G,Fuchsia Flowered Gooseberry
 Ribes speciosum 5G,Fuchsia Flowered Gooseberry
+Ribes viburnifolium 1G,"Evergreen Currant, Catalina Perfume"
 Ribes viburnifolium 5G,"Evergreen Currant, Catalina Perfume"
 Ribes viburnifolium ‘Spooner’s Mesa’ 1G,Spooner’s Mesa Evergreen Currant
 Romneya coulteri 1G,Matilija Poppy
+Romneya coulteri 3G,Matilija Poppy
 Rubus ursinus 1G,California Blackberry
+Salvia ‘Allen Chickering’ 1G,Allen Chickering Sage
 Salvia ‘Allen Chickering’ 5G,Allen Chickering Sage
 Salvia apiana 1G,White Sage
-Salvia ‘Bee’s Bliss’ 1G,Bee’s Bliss Sage
+Salvia apiana 4”,White Sage
+Salvia apiana var. compacta 1G,Compact White Sage
 Salvia ‘Bee’s Bliss’ 3G,Bee’s Bliss Sage
 Salvia ‘Bee’s Bliss’ 5G,Bee’s Bliss Sage
 Salvia ‘Bon Bon’ 1G,Bon Bon Sage
 Salvia brandegeei 1G,"Brandegee’s Sage, Santa Rosa Island Sage"
-Salvia brandegeei ‘Pacific Blue’ 1G,Pacific Blue Brandegee’s Sage
 Salvia cedrosensis ‘Baja Blanca’ 4”,Baja Blanca Cedros Island Sage
 Salvia ‘Celestial Blue’ 1G,Celestial Blue Sage
 Salvia clevelandii ‘Aromas’ 1G,Aromas Cleveland Sage
 Salvia clevelandii ‘Compacta’ 1G,Compacta Cleveland Sage
+Salvia clevelandii cultivar 1G,Cleveland Sage Cultivar
 Salvia clevelandii ‘Whirly Blue’ 1G,Whirly Blue Cleveland Sage
+Salvia clevelandii ‘Winnifred Gilman’ 1G,Winnifred Gilman Cleveland Sage
+Salvia clevelandii ‘Winnifred Gilman’ 4”,Winnifred Gilman Cleveland Sage
 Salvia leucophylla 1G,Purple Sage
 Salvia leucophylla ‘Pinkie’ 1G,Pinkie Purple Sage
 Salvia leucophylla ‘Point Sal’ 1G,Point Sal Purple Sage
+Salvia mellifera 1G,Black Sage
 Salvia munzii 1G,Munz’s Sage
+Salvia pachyphylla 4”,Rose Sage
 Salvia ‘Pozo Blue’ 1G,Pozo Blue Sage
 Salvia ‘Pozo Blue’ 5G,Pozo Blue Sage
+Salvia spathacea 1G,Hummingbird Sage
 Sedum spathulifolium ‘Cape Blanco’ 4”,Cape Blanco Common Stonecrop
+Senecio palmeri ‘Silver and Gold’ 5G,Silver and Gold Guadalupe Island Senecio
 Sisyrinchium bellum 1G,Blue Eyed Grass
 Sisyrinchium bellum ‘Dwarf’ 1G,Dwarf Blue Eyed Grass
 Sisyrinchium bellum ‘Dwarf’ 4”,Dwarf Blue Eyed Grass
 Sisyrinchium bellum ‘Rocky Point’ 1G,Rocky Point Blue Eyed Grass
-Solidago velutina ssp. californica 1G,"Western Goldenrod, California Goldenrod"
+Solanum xanti ‘Mountain Pride’ 1G,Mountain Pride Blue Witch
+Sphaeralcea ambigua ‘Louis Hamilton’ 5G,Louis Hamilton Apricot Mallow
 Sporobolus airoides 1G,"Alkali Dropseed, Alkali Sacaton"
 Sporobolus wrightii 1G,Big Sacaton
 Stachys albens 4” Local-Santa Monica Mtns,Woolly White Hedge Nettle
-Stachys bullata ‘White’ 1G,White Hedge Nettle – (Plant)
-Stipa cernua 1G,Nodding Needlegrass
+Stipa cernua Flat,Nodding Needlegrass
 Stipa coronata (Achnatherum coronatum) 1G,"Giant Needlegrass, Crested Needlegrass"
 Stipa coronata (Achnatherum coronatum) 4”,"Giant Needlegrass, Crested Needlegrass"
-Symphoricarpos mollis 1G,Creeping Snowberry
 Symphyotrichum (Aster) chilense ‘Purple Haze’ 1G,Purple Haze Coast Aster
 Symphyotrichum chilense ‘Point St. George’ 1G,Point St. George Coast Aster
 Symphyotrichum chilense ‘Point St. George’ 4”,Point St. George Coast Aster
-Umbellularia californica 15G,California Bay
+Trichostema lanatum 1G,"Woolly Blue Curls, Romero"
+Trichostema lanatum 4”,"Woolly Blue Curls, Romero"
 Umbellularia californica 5G,California Bay
+Venegasia carpesioides 1G,Canyon Sunflower
+Verbena lasiostachys 1G,"Western Verbena, Vervain"
 Verbena lilacina ‘De La Mina’ 1G,De La Mina Lilac Verbena
 Verbena lilacina ‘Paseo Rancho’ 1G,Paseo Rancho Lilac Verbena
 Vitis californica 1G,California Wild Grape
-Vitis girdiana 1G,"Southern California Grape, Desert Wild Grape"
 Vitis girdiana 5G,"Southern California Grape, Desert Wild Grape"
 Vitis ‘Roger’s Red’ 5G,Roger’s Red Grape
 Woodwardia fimbriata 5G,Giant Chain Fern
 Yucca schidigera 1G,Mojave Yucca
 Yucca schidigera 4”,Mojave Yucca
-Yucca schidigera 5G,Mojave Yucca
