@@ -1,10 +1,6 @@
 Botanic Name and Size,Common Name,Price
-Abutilon palmeri 5G,Palmer’s Indian Mallow,$35.00
 Acer negundo (A. negundo var. californicum) 5G,California Box Elder,$30.00
 Achillea millefolium 4”,Yarrow,$5.00
-Achillea millefolium ‘Island Pink’ 1G,Island Pink Yarrow,$10.00
-Achillea millefolium ‘Island Pink’ 4”,Island Pink Yarrow,$5.00
-Acmispon glaber (Lotus scoparius) 4”,Deerweed,$5.00
 Adenostoma fasciculatum ‘Nicolas’ 3G,Nicolas Chamise,$30.00
 Adenostoma fasciculatum var. fasciculatum 1G,Chamise,$12.00
 Adenostoma fasciculatum var. fasciculatum 5G,Chamise,$35.00
@@ -17,9 +13,9 @@ Agave shawii var. shawii 5G,Shaw’s Agave,$50.00
 Agrostis pallens 4”,Bent Grass,$5.00
 Alnus rhombifolia 1G,White Alder,$10.00
 Anemopsis californica 1G,Yerba Mansa,$10.00
+Aquilegia formosa 1G,Western Columbine,$10.00
 Aquilegia formosa 4”,Western Columbine,$5.00
 Arctostaphylos ‘Austin Griffiths’ 1G,Austin Griffiths Manzanita,$12.00
-Arctostaphylos australis 3G,Southern Manzanita,$30.00
 Arctostaphylos cruzensis 1G,Arroyo de la Cruz Manzanita,$12.00
 Arctostaphylos densiflora ‘Sentinel’ 1G,Sentinel Vine Hill Manzanita,$12.00
 Arctostaphylos edmundsii ‘Carmel Sur’ 1G,Carmel Sur Little Sur Manzanita,$12.00
@@ -50,7 +46,6 @@ Arctostaphylos ‘Sunset’ 5G,Sunset Manzanita,$35.00
 Arctostaphylos tomentosa–creeping form 1G,Creeping Form Woolly-Leaf Manzanita,$12.00
 Arctostaphylos ‘TPF Blue’ – TPF Blue Manzanita (Plant) 1G,TPF Blue Manzanita – (Plant),$12.00
 Arctostaphylos uva-ursi ‘Green Supreme’ 1G,Green Supreme Bearberry Manzanita,$12.00
-Arctostaphylos uva-ursi ‘Green Supreme’ 4”,Green Supreme Bearberry Manzanita,$6.00
 Arctostaphylos uva-ursi ‘Point Reyes’ 1G,Point Reyes Bearberry Manzanita,$12.00
 Arctostaphylos uva-ursi ‘Radiant’ 1G,Radiant Bearberry Manzanita,$12.00
 Armeria maritima ssp. californica 1G,"California Sea Pink, Thrift",$10.00
@@ -71,7 +66,6 @@ Atriplex lentiformis ssp. breweri 1G,Quail Bush,$10.00
 Atriplex polycarpa 1G,"Cattle Spinach, Alkali Saltbush",$10.00
 Baccharis ‘Centennial’ 1G,Centennial Desert Broom,$10.00
 Baccharis pilularis ssp. consanguinea ‘Pozo Surf’ 1G,Pozo Surf Coyote Brush,$10.00
-Baccharis pilularis ssp. pilularis ‘Pigeon Point’ 4”,Pigeon Point Coyote Brush,$5.00
 Baccharis salicifolia – Mulefat (Plant) 1G,Mulefat – (Plant),$10.00
 Baccharis salicina – Emory’s Baccharis (Plant) 1G,Emory’s Baccharis – (Plant),$10.00
 Baccharis sarothroides 1G,"Broom Baccharis, Desert Broom",$10.00
@@ -89,10 +83,8 @@ Carex pansa 4”,Sand Dune Sedge,$5.00
 Carex praegracilis 4”,"Field Sedge, Slender Sedge",$5.00
 Carex spissa 1G,San Diego Sedge,$10.00
 Carpenteria californica 15G,"Bush Anemone, Tree Anemone",$125.00
-Carpenteria californica ‘Elizabeth’ 5G,Elizabeth Bush Anemone,$40.00
 Ceanothus arboreus 1G,"Catalina Ceanothus, Felt-Leaf Ceanothus",$12.00
 Ceanothus ‘Blue Jeans’ 1G,Blue Jeans Ceanothus,$12.00
-Ceanothus ‘Celestial Blue’ 1G,Celestial Blue Ceanothus – (Plant),$12.00
 Ceanothus ‘Centennial’ 4”,Centennial Ceanothus,$6.00
 Ceanothus ‘Concha’ 1G,Concha Ceanothus,$12.00
 Ceanothus crassifolius var. crassifolius 1G,Hoaryleaf Ceanothus,$12.00
@@ -106,7 +98,6 @@ Ceanothus ‘Joyce Coulter’ 1G,Joyce Coulter Ceanothus,$12.00
 Ceanothus ‘Julia Phelps’ 1G,Julia Phelps California Lilac,$12.00
 Ceanothus leucodermis 1G,Chaparral Whitethorn,$12.00
 Ceanothus maritimus ‘Popcorn’ 1G,Popcorn Maritime Ceanothus,$12.00
-Ceanothus megacarpus var. megacarpus 1G,Big-Pod Ceanothus,$12.00
 Ceanothus ‘Owlswood Blue’ 1G,Owlswood Blue Ceanothus,$12.00
 Ceanothus rigidus (C. cuneatus var. rigidus) ‘Snowball’ 1G,Snowball Monterey Ceanothus,$12.00
 Ceanothus ‘Skylark’ 1G,Skylark Ceanothus,$12.00
@@ -118,22 +109,22 @@ Ceanothus tomentosus 1G,Woollyleaf Ceanothus,$12.00
 Cercis occidentalis 1G,Western Redbud,$12.00
 Cercis occidentalis 5G,Western Redbud,$35.00
 Cercocarpus minutiflorus 1G,San Diego Mountain Mahogany,$10.00
-Chlorogalum parvifolium 4”,Small Flowered Soaproot – (Plant),$6.00
 Comarostaphylis diversifolia ssp. diversifolia 15G,Summer Holly,$140.00
 Condea emoryi 1G,Desert Lavender,$10.00
 Corethrogyne (Lessingia) filaginifolia ‘Silver Carpet’ 1G,Silver Carpet Common Sandaster,$10.00
 Corethrogyne (Lessingia) filaginifolia ‘Silver Carpet’ 4”,Silver Carpet Common Sandaster,$5.00
+Corethrogyne filaginifolia ‘Smart Aster’ 1G,Smart Aster Common Sandaster,$10.00
 Deschampsia cespitosa 4”,Tufted Hairgrass,$5.00
 Diplacus clevelandii 1G,Cleveland’s Bush Monkeyflower,$10.00
 Diplacus ‘Fiesta Marigold’ 1G,Fiesta Marigold Monkeyflower,$10.00
 Diplacus ‘Jelly Bean Lemon’ 1G,Jelly Bean Lemon Monkeyflower,$10.00
-Diplacus ‘Jelly Bean Orange’ 1G,Jelly Bean Orange Monkeyflower,$10.00
 Diplacus longiflorus (var. rutilus) 1G,Santa Susana Monkeyflower,$10.00
 Diplacus longiflorus 1G,"Bush Monkeyflower, Sticky Monkeyflowert",$10.00
 Diplacus longiflorus 4”,"Bush Monkeyflower, Sticky Monkeyflower",$6.00
 Diplacus ‘Trish’ 1G,Trish Monkeyflower,$10.00
+Diplacus–red form 3G,Monkeyflower red form – (Plant),$30.00
+Diplacus–selected form 3G,Monkeyflower selected form – (Plant),$30.00
 Dudleya brittonii 1G,Britton’s Dudleya,$14.00
-Elymus (Leymus) condensatus ‘Canyon Prince’ 1G,Canyon Prince Giant Wild Rye,$10.00
 Elymus (Leymus) triticoides 4”,Creeping Wild Rye,$5.00
 Elymus glaucus 4”,Blue Wild Rye – (Plant),$5.00
 Encelia actoni 4”,Acton Encelia,$5.00
@@ -153,11 +144,10 @@ Eriogonum arborescens 1G,Santa Cruz Island Buckwheat,$12.00
 Eriogonum fasciculatum ‘Dana Point’ 1G,Dana Point California Buckwheat,$10.00
 Eriogonum fasciculatum ‘Warriner Lytle’ 1G,Warriner Lytle California Buckwheat,$10.00
 Eriogonum grande var. rubescens 1G,San Miguel Island or Red Buckwheat,$12.00
+Eriogonum nudum–robust form 4”,Naked Buckwheat robust form,$6.00
 Erythranthe (Mimulus) guttata 1G,"Seep Monkeyflower, Yellow Monkeyflower",$10.00
-Erythranthe lewisii 4”,Pink Monkeyflower,$5.00
 Euphorbia xanti 1G,Baja Spurge,$10.00
 Fallugia paradoxa 1G,Apache Plume,$10.00
-Festuca californica 4”,California Fescue,$5.00
 Festuca idahoensis 4”,Idaho Fescue,$5.00
 Festuca occidentalis 4”,Western Fescue,$5.00
 Festuca rubra ‘Molate’ 1G,Molate Creeping Red Fescue,$10.00
@@ -173,7 +163,6 @@ Frangula (Rhamnus) californica ‘Mound San Bruno’ 2G,Mound San Bruno Californ
 Frangula californica 1G,California Coffeeberry,$12.00
 Frangula californica ‘Leatherleaf’ 1G,Leatherleaf California Coffeeberry,$12.00
 Frankenia salina 1G,Alkali Heath,$10.00
-Fremontodendron ‘Pacific Sunset’ 1G,Pacific Sunset Flannel Bush,$14.00
 Fremontodendron ‘Pacific Sunset’ 5G,Pacific Sunset Flannel Bush,$40.00
 Fremontodendron ‘San Gabriel’ 1G,San Gabriel Flannel Bush,$14.00
 Gambelia (Galvezia) speciosa 4”,Showy Island Snapdragon,$5.00
@@ -199,14 +188,12 @@ Heuchera ‘Canyon Belle’ 1G,Canyon Belle Coral Bells,$10.00
 Heuchera maxima 1G,Island Alumroot,$10.00
 Heuchera ‘Santa Ana Cardinal’ 1G,Santa Ana Cardinal Alumroot,$10.00
 Heuchera ‘Wendy’ 1G,Wendy Alumroot,$10.00
-Iris ‘Canyon Snow’ 1G,Canyon Snow Iris,$12.00
 Iris douglasiana 1G,Douglas Iris,$12.00
 Iris ‘Pacific Coast Hybrid’ 1G,Pacific Coast Hybrid Iris,$12.00
 Juncus acutus 1G,Spiny Rush – (Plant),$10.00
 Juncus acutus ssp. leopoldii 1G,Southwestern Spiny Rush,$10.00
 Juncus effusus 1G,Common Rush,$10.00
 Juncus mexicanus 1G,Mexican Rush,$10.00
-Juncus patens ‘Carman’s Gray’ 4”,Carman’s Grey Spreading Rush,$5.00
 Juncus patens ‘Will Fleming’ 1G,Will Fleming Common Rush,$10.00
 Juncus phaeocephalus 1G,Brown Headed Rush,$10.00
 Juncus textilis 1G,Basket Rush,$10.00
@@ -214,30 +201,25 @@ Juncus torreyi 1G,Torrey’s Rush,$10.00
 Juncus xiphioides 1G,Iris Leaved Rush,$10.00
 Keckiella cordifolia 1G,Heart-Leaved Keckiella,$10.00
 Lepechinia fragrans 1G,Fragrant Pitcher Sage,$10.00
+Lepechinia fragrans 5G-Local Santa Monica Mtns,Fragrant Pitcher Sage,$30.00
 Lewisia ‘Elise’ 4”,Elise Cliff Maids,$6.00
 Lilium humboldtii ssp. ocellatum 1G Local-Santa Monica Mtns,Ocellated Humboldt Lily,$50.00
-Lonicera subspicata 1G,Southern Honeysuckle – (Plant),$10.00
 Lupinus paynei 1G,Payne’s Tree Lupine,$12.00
 Lyonothamnus floribundus ssp. aspleniifolius 15G,Santa Cruz Island Ironwood,$100.00
 Lyonothamnus floribundus ssp. aspleniifolius 5G,Santa Cruz Island Ironwood,$50.00
 Malacothamnus clementinus 5G,San Clemente Bush Mallow,$35.00
-Malacothamnus fasciculatus ‘Casitas’ 1G,Casitas Chaparral Mallow,$10.00
 Malacothamnus jonesii 1G,Jones’ Bush Mallow,$10.00
 Malacothamnus jonesii 5G,Jones’ Bush Mallow,$30.00
 Malacothamnus palmeri ‘Hanging Valley’ 5G,Hanging Valley Bush Mallow,$30.00
 Malacothamnus species 1G,Malacothamnus Species – (Plant),$10.00
 Malosma laurina 1G,Laurel Sumac,$10.00
 Malva (Lavatera) assurgentiflora 1G,Island Mallow,$10.00
-Malva ‘Purisima’ 1G,Purisima Island Mallow,$12.00
-Mammillaria dioica 1G,Strawberry or Fish Hook Cactus,$16.00
 Mirabilis laevis var. crassifolia 4”,"California Four O’clock, Wishbone Bush",$5.00
 Monardella macrantha ‘Marian Sampson’ 1G,Marian Sampson Hummingbird Monardella,$10.00
-Monardella macrantha ‘Marian Sampson’ 4”,Marian Sampson Hummingbird Monardella,$6.00
 Monardella villosa ssp. villosa 1G,Coyote Mint,$10.00
 Monardella villosa ssp. villosa ‘Russian River’ 1G,Russian River Coyote Mint,$10.00
 Monardella villosa ssp. villosa ‘Russian River’ 4”,Russian River Coyote Mint,$5.00
 Morella (Myrica) californica 1G,Pacific Wax Myrtle,$12.00
-Muhlenbergia rigens 1G,Deergrass,$10.00
 Muhlenbergia rigens 4”,Deergrass,$5.00
 Penstemon heterophyllus ‘Margarita BOP’ 1G,Margarita BOP Foothill Penstemon,$10.00
 Penstemon pseudospectabilis 1G,Mojave Beardtongue,$10.00
@@ -255,7 +237,6 @@ Prunus ilicifolia ssp. lyonii 1G,Catalina Cherry,$12.00
 Prunus ilicifolia ssp. lyonii 24” Box,Catalina Cherry,$300.00
 Pycnanthemum californicum 4”,California Mint,$5.00
 Quercus agrifolia var. agrifolia 15G,Coast Live Oak,$125.00
-Quercus chrysolepis 1G,Canyon Live Oak,$12.00
 Quercus engelmannii 1G,Engelmann Oak,$16.00
 Quercus engelmannii 5G,Engelmann Oak,$50.00
 Ranunculus californicus var. californicus 1G,California Buttercup,$10.00
@@ -272,7 +253,6 @@ Ribes viburnifolium 3G,"Evergreen Currant, Catalina Perfume",$30.00
 Ribes viburnifolium 5G,"Evergreen Currant, Catalina Perfume",$35.00
 Ribes viburnifolium ‘Spooner’s Mesa’ 1G,Spooner’s Mesa Evergreen Currant,$10.00
 Ribes viburnifolium ‘Spooner’s Mesa’ 5G,Spooner’s Mesa Evergreen Currant,$35.00
-Rosa californica 1G,California Wild Rose,$10.00
 Rosa californica 5G,California Wild Rose,$30.00
 Salvia ‘Allen Chickering’ 1G,Allen Chickering Sage,$10.00
 Salvia apiana 1G,White Sage,$10.00
@@ -280,7 +260,6 @@ Salvia ‘Bee’s Bliss’ 1G,Bee’s Bliss Sage,$10.00
 Salvia ‘Bee’s Bliss’ 3G,Bee’s Bliss Sage,$25.00
 Salvia ‘Bon Bon’ 1G,Bon Bon Sage,$10.00
 Salvia cedrosensis ‘Baja Blanca’ 1G,Baja Blanca Cedros Island Sage,$12.00
-Salvia ‘Celestial Blue’ 5G,Celestial Blue Sage,$30.00
 Salvia clevelandii ‘Japatul’ 1G,Japatul Cleveland Sage,$10.00
 Salvia clevelandii ‘Winnifred Gilman’ 1G,Winnifred Gilman Cleveland Sage,$10.00
 Salvia ‘Green Carpet’ 3G,Green Carpet Sage,$25.00
@@ -303,7 +282,6 @@ Simmondsia chinensis 1G,"Jojoba, Goatnut",$12.00
 Sisyrinchium bellum 1G,Blue Eyed Grass,$10.00
 Solanum xanti ‘Mountain Pride’ 1G,Mountain Pride Blue Witch,$10.00
 Solidago velutina ssp. californica 1G,"Western Goldenrod, California Goldenrod",$10.00
-Sphaeralcea ambigua 1G,Apricot Mallow,$10.00
 Sphaeralcea ambigua 5G,Apricot Mallow,$30.00
 Sphaeralcea ambigua ‘Louis Hamilton’ 1G,Louis Hamilton Apricot Mallow,$12.00
 Sphaeralcea ambigua ‘Louis Hamilton’ 5G,Louis Hamilton Apricot Mallow,$35.00
@@ -317,6 +295,6 @@ Symphyotrichum chilense ‘Point St. George’ 1G,Point St. George Coast Aster,$
 Symphyotrichum chilense ‘Point St. George’ 4”,Point St. George Coast Aster,$5.00
 Typha latifolia 5G,Broad-Leaved Cattail,$35.00
 Venegasia carpesioides 3G,Canyon Sunflower,$30.00
-Verbena lilacina ‘De La Mina’ 1G,De La Mina Lilac Verbena,$10.00
 Verbena lilacina ‘De La Mina’ 3G,De La Mina Lilac Verbena,$25.00
+Verbena lilacina ‘De La Mina’ 4”,De La Mina Lilac Verbena,$5.00
 Verbena lilacina ‘Paseo Rancho’ 1G,Paseo Rancho Lilac Verbena,$10.00
