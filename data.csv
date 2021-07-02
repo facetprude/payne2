@@ -1,6 +1,5 @@
 Botanic Name and Size,Common Name,Price
 Acer negundo (A. negundo var. californicum) 5G,California Box Elder,$30.00
-Achillea millefolium 4”,Yarrow,$5.00
 Achillea millefolium ‘Island Pink’ 1G,Island Pink Yarrow,$10.00
 Adenostoma fasciculatum ‘Nicolas’ 3G,Nicolas Chamise,$30.00
 Adenostoma fasciculatum var. fasciculatum 5G,Chamise,$35.00
@@ -13,8 +12,6 @@ Agave shawii var. shawii 5G,Shaw’s Agave,$50.00
 Agrostis pallens 4”,Bent Grass,$5.00
 Alnus rhombifolia 1G,White Alder,$10.00
 Anemopsis californica 1G,Yerba Mansa,$10.00
-Aquilegia formosa 1G,Western Columbine,$10.00
-Aquilegia formosa 4”,Western Columbine,$5.00
 Arctostaphylos ‘Austin Griffiths’ 1G,Austin Griffiths Manzanita,$12.00
 Arctostaphylos densiflora ‘Sentinel’ 1G,Sentinel Vine Hill Manzanita,$12.00
 Arctostaphylos edmundsii ‘Carmel Sur’ 1G,Carmel Sur Little Sur Manzanita,$12.00
@@ -24,7 +21,6 @@ Arctostaphylos ‘Emerald Carpet’ 1G,Emerald Carpet Manzanita,$12.00
 Arctostaphylos glandulosa 1G,Eastwood Manzanita,$12.00
 Arctostaphylos glauca 1G,"Blue Manzanita, Bigberry Manzanita",$12.00
 Arctostaphylos hookeri ‘Monterey Carpet’ 1G,Monterey Carpet Hooker’s Manzanita,$12.00
-Arctostaphylos ‘Ian Bush’ 1G,Ian Bush Manzanita,$12.00
 Arctostaphylos insularis ‘Canyon Sparkles’ 1G,Canyon Sparkles Santa Cruz Island Manzanita,$12.00
 Arctostaphylos ‘Lester Rowntree’ 1G,Lester Rowntree Manznita,$12.00
 Arctostaphylos manzanita ‘Byrd Hill’ 1G,Byrd Hill Manzanita,$12.00
@@ -54,13 +50,11 @@ Aristida purpurea 4”,Purple Three Awn,$5.00
 Artemisia californica 4”,California Sagebrush,$5.00
 Artemisia californica ‘Canyon Grey’ 1G,Canyon Grey California Sagebrush,$10.00
 Artemisia californica ‘Canyon Grey’ 4”,Canyon Grey California Sagebrush,$5.00
-Artemisia californica ‘Montara’ 3G,Montara Sagebrush,$25.00
 Artemisia douglasiana 1G,Mugwort,$10.00
+Artemisia ludoviciana ssp. albula 1G,White Mugwort,$10.00
 Artemisia pycnocephala ‘David’s Choice’ 1G,David’s Choice Beach Sagebrush,$10.00
 Artemisia tridentata ssp. tridentata 1G,Great Basin Sagebrush,$10.00
 Asclepias fascicularis 1G,Narrow Leaf Milkweed,$12.00
-Asclepias fascicularis 4”,Narrow Leaf Milkweed,$6.00
-Asclepias speciosa 4”,Showy Milkweed,$6.00
 Astragalus trichopodus 1G,Santa Barbara Milk Vetch – (Plant),$10.00
 Atriplex canescens 1G,Four-Winged Saltbush or Shad-Scale,$10.00
 Atriplex canescens 4”,Four-Winged Saltbush or Shad-Scale,$5.00
@@ -78,7 +72,6 @@ Baccharis salicina – Emory’s Baccharis (Plant) 1G,Emory’s Baccharis – (P
 Baccharis sarothroides 1G,"Broom Baccharis, Desert Broom",$10.00
 Berberis (Mahonia) aquifolium var. aquifolium 1G,Oregon Grape,$12.00
 Berberis aquifolium var. repens 1G,Creeping Oregon Grape,$12.00
-Bergerocactus emoryi 1G,"Cunyado, Goldenspined Cereus",$12.00
 Bouteloua curtipendula 4”,Side Oats Grama,$5.00
 Bouteloua gracilis 4”,Blue Grama,$5.00
 Calamagrostis foliosa 1G,Leafy Reedgrass,$10.00
@@ -137,7 +130,6 @@ Diplacus ‘Jelly Bean Gold’ 1G,Jelly Bean Gold Monkeyflower,$10.00
 Diplacus ‘Jelly Bean Lemon’ 1G,Jelly Bean Lemon Monkeyflower,$10.00
 Diplacus ‘Jelly Bean Orange’ 1G,Jelly Bean Orange Monkeyflower,$10.00
 Diplacus ‘Jelly Bean Purple Pink’ 1G,Jelly Bean Purple/Pink Monkeyflower,$10.00
-Diplacus ‘Jelly Bean Red’ 1G,Jelly Bean Red Monkeyflower,$10.00
 Diplacus ‘Jelly Bean Terracotta’ 1G,Jelly Bean Terracotta Monkeyflower,$10.00
 Diplacus longiflorus (var. rutilus) 1G,Santa Susana Monkeyflower,$10.00
 Diplacus ‘Trish’ 1G,Trish Monkeyflower,$10.00
@@ -160,7 +152,6 @@ Epilobium ‘Catalina’ 4”,Catalina California Fuchsia,$6.00
 Epilobium ‘Cloverdale’ 1G,Cloverdale California Fuchsia – (Plant),$10.00
 Epilobium ‘Everett’s Choice’ 1G,Everett’s Choice California Fuchsia,$10.00
 Epilobium septentrionale ‘Select Mattole’ 1G,Select Mattole Humboldt County Fuschsia,$10.00
-Epilobium ‘Sierra Salmon’ 1G,Sierra Salmon California Fuchsia,$10.00
 Epilobium ‘Summer Snow’ 1G,Summer Snow California Fuchsia,$10.00
 Epilobium ‘Summer Snow’ 4”,Summer Snow California Fuchsia,$6.00
 Erigeron glaucus ‘Cape Sebastian’ 1G,Cape Sebastian Seaside Daisy,$10.00
@@ -168,10 +159,10 @@ Erigeron glaucus ‘Cape Sebastian’ 4”,Cape Sebastian Seaside Daisy,$5.00
 Erigeron glaucus ‘Sea Breeze’ 1G,Sea Breeze Seaside Daisy,$10.00
 Erigeron glaucus ‘Sea Breeze’ 4”,Sea Breeze Seaside Daisy,$5.00
 Erigeron ‘W. R.’ 1G,W.R. Seaside Daisy,$10.00
-Eriogonum crocatum 1G,Conejo Buckwheat,$12.00
 Eriogonum fasciculatum ‘Dana Point’ 1G,Dana Point California Buckwheat,$10.00
 Eriogonum fasciculatum ‘Theodore Payne’ 4”,Theodore Payne California Buckwheat,$5.00
 Eriogonum fasciculatum ‘Warriner Lytle’ 1G,Warriner Lytle California Buckwheat,$10.00
+Eriogonum giganteum var. giganteum 1G,Saint Catherine’s Lace,$12.00
 Eriogonum grande var. rubescens (dark flower) 4”,Red-Flowered Buckwheat – (Plant),$6.00
 Eriogonum grande var. rubescens 1G,San Miguel Island or Red Buckwheat,$12.00
 Eriogonum nudum–robust form 4”,Naked Buckwheat robust form,$6.00
@@ -189,10 +180,9 @@ Festuca rubra ‘Patrick’s Point’ 1G,Patrick’s Point Creeping Red Fescue,$
 Festuca rubra ‘Point Joe’ 1G,Point Joe Fescue – (Plant),$10.00
 Fragaria chiloensis 1G,Beach Strawberry,$10.00
 Fragaria chiloensis 4”,Beach Strawberry,$5.00
-Fragaria vesca 1G,Wood Strawberry,$10.00
 Frangula (Rhamnus) californica ‘Eve Case’ 1G,Eve Case California Coffeeberry,$12.00
 Frangula (Rhamnus) californica ‘Little Sur’ 1G,Little Sur California Coffeeberry,$12.00
-Frangula (Rhamnus) californica ‘Mound San Bruno’ 1G,Mound San Bruno California Coffeeberry,$12.00
+Frangula (Rhamnus) californica ‘Mound San Bruno’ 1G,Mound San Bruno Coffeeberry,$12.00
 Frangula (Rhamnus) californica ‘Mound San Bruno’ 2G,Mound San Bruno California Coffeeberry,$25.00
 Frangula californica 1G,California Coffeeberry,$12.00
 Frangula californica ‘Leatherleaf’ 1G,Leatherleaf California Coffeeberry,$12.00
@@ -285,7 +275,6 @@ Prunus ilicifolia ssp. lyonii 1G,Catalina Cherry,$12.00
 Prunus ilicifolia ssp. lyonii 24” Box,Catalina Cherry,$300.00
 Pycnanthemum californicum 4”,California Mint,$5.00
 Quercus agrifolia var. agrifolia 15G,Coast Live Oak,$125.00
-Quercus engelmannii 1G,Engelmann Oak,$16.00
 Quercus engelmannii 5G,Engelmann Oak,$50.00
 Ranunculus californicus var. californicus 1G,California Buttercup,$10.00
 Rhus aromatica 1G,"Fragrant Sumac, Basket Bush",$12.00
@@ -309,7 +298,6 @@ Salvia ‘Allen Chickering’ 1G,Allen Chickering Sage,$10.00
 Salvia ‘Bee’s Bliss’ 1G,Bee’s Bliss Sage,$10.00
 Salvia ‘Bee’s Bliss’ 3G,Bee’s Bliss Sage,$25.00
 Salvia ‘Bon Bon’ 1G,Bon Bon Sage,$10.00
-Salvia cedrosensis ‘Baja Blanca’ 1G,Baja Blanca Cedros Island Sage,$12.00
 Salvia ‘Celestial Blue’ 5G,Celestial Blue Sage,$30.00
 Salvia clevelandii ‘Aromas’ 1G,Aromas Cleveland Sage,$10.00
 Salvia clevelandii ‘Japatul’ 1G,Japatul Cleveland Sage,$10.00
@@ -326,11 +314,13 @@ Salvia pachyphylla 1G,Rose Sage,$12.00
 Salvia ‘Pozo Blue’ 1G,Pozo Blue Sage,$10.00
 Salvia ‘Shirley’s Creeper’ 1G,Shirley’s Creeper Sage,$10.00
 Salvia sonomensis ‘Mrs. Beard’ 1G,Mrs. Beard Creeping Sage,$10.00
+Salvia spathacea 1G,Hummingbird Sage,$10.00
 Salvia spathacea ‘Las Pilitas’ 1G,Las Pilitas Hummingbird Sage,$10.00
 Salvia ‘Thor’ 1G,Thor Sage,$10.00
 Salvia ‘Valley View’ 1G,Valley View Sage,$10.00
 Sambucus nigra ssp. caerulea 1G,"Blue Elderberry, Mexican Elderberry",$10.00
 Sedum spathulifolium ‘Cape Blanco’ 4”,Cape Blanco Common Stonecrop,$7.00
+Silene laciniata ssp. laciniata 4”,"Indian Pink, Cardinal Catchfly",$6.00
 Simmondsia chinensis 1G,"Jojoba, Goatnut",$12.00
 Sisyrinchium bellum 1G,Blue Eyed Grass,$10.00
 Sisyrinchium bellum ‘Arroyo de la Cruz’ 1G,Arroyo de la Cruz Blue Eyed Grass,$10.00
@@ -345,17 +335,15 @@ Sphaeralcea ambigua ‘Louis Hamilton’ 1G,Louis Hamilton Apricot Mallow,$12.00
 Sporobolus airoides 1G,"Alkali Dropseed, Alkali Sacaton",$10.00
 Sporobolus airoides 4”,"Alkali Dropseed, Alkali Sacaton",$5.00
 Stipa cernua 4”,Nodding Needlegrass,$5.00
-Stipa coronata (Achnatherum coronatum) 1G,"Giant Needlegrass, Crested Needlegrass",$10.00
 Stipa coronata (Achnatherum coronatum) 1G Local-San Gabriel Mtns,"Giant Needlegrass, Crested Needlegrass",$10.00
 Stipa coronata (Achnatherum coronatum) 4”,"Giant Needlegrass, Crested Needlegrass",$5.00
 Stipa lepida 4”,Foothill Needlegrass,$5.00
 Symphyotrichum chilense ‘Point St. George’ 1G,Point St. George Coast Aster,$10.00
-Symphyotrichum chilense ‘Point St. George’ 4”,Point St. George Coast Aster,$5.00
 Typha latifolia 5G,Broad-Leaved Cattail,$35.00
 Venegasia carpesioides 3G,Canyon Sunflower,$30.00
 Verbena lilacina ‘De La Mina’ 1G,De La Mina Lilac Verbena,$10.00
 Verbena lilacina ‘De La Mina’ 3G,De La Mina Lilac Verbena,$25.00
-Verbena lilacina ‘De La Mina’ 4”,De La Mina Lilac Verbena,$5.00
 Verbena lilacina ‘Paseo Rancho’ 1G,Paseo Rancho Lilac Verbena,$10.00
 Verbena lilacina ‘Paseo Rancho’ 4”,Paseo Rancho Lilac Verbena,$5.00
 Washingtonia filifera 1G,California Fan Palm,$14.00
+Soil 15G,TPF Soil,$15.00
